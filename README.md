@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps. Copy the f
 - GitHub: [@KMT-Media](https://github.com/KMT-Media)
 - Gmail: [@gmail](mailto:kidustade2@gmail.com)
 
-👤 **Kidus Tadesse**
+👤 **Amos Maina**
 
 - GitHub: [@ramaunspoken](https://github.com/Ramaunspoken)
 - Gmail: [@gmail](mailto:amosmaina0877@gmail)
